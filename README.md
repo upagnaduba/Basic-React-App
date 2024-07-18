@@ -2,14 +2,6 @@
 
 Welcome to the Basic React App repository! This project serves as a simple starting point for building a React application with routing and a navbar.
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Available Scripts](#available-scripts)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
 
 ### Prerequisites
